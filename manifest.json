@@ -1,0 +1,17 @@
+{
+    "name": "Color Game",
+    "short_name": "Game",
+    "theme_color": "grey",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://colorhexxx.website/",
+    "description": "Choose the color!",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://cdn.glitch.com/79cfca1a-85b1-4b18-a6df-92b01b6ea33b%2Ficon-512x512.png?v=1632764563434",
+            "sizes": "512x512"
+        }
+    ]
+}
